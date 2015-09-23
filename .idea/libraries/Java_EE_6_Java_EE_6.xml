@@ -1,0 +1,36 @@
+<component name="libraryTable">
+  <library name="Java EE 6-Java EE 6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.jms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.ejb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.transaction.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.resource.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet.jsp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar!/" />
+      <root url="file://$PROJECT_DIR$/lib" />
+      <root url="file://$PROJECT_DIR$/lib/apache-log4j-1.2.17" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/lib/apache-log4j-1.2.17/site/apidocs" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/lib/apache-log4j-1.2.17" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/lib/apache-log4j-1.2.17" />
+      <root url="file://$PROJECT_DIR$/lib/apache-log4j-1.2.17/contribs/CekiGulcu" />
+      <root url="file://$PROJECT_DIR$/lib/apache-log4j-1.2.17/contribs/Jamie Tsao" />
+      <root url="file://$PROJECT_DIR$/lib/apache-log4j-1.2.17/contribs/JimMoore" />
+      <root url="file://$PROJECT_DIR$/lib/apache-log4j-1.2.17/contribs/ThomasFenner" />
+      <root url="file://$PROJECT_DIR$/lib/apache-log4j-1.2.17/src/main/java" />
+      <root url="file://$PROJECT_DIR$/lib/apache-log4j-1.2.17/src/main/javadoc" />
+      <root url="file://$PROJECT_DIR$/lib/apache-log4j-1.2.17/src/performance/java" />
+      <root url="file://$PROJECT_DIR$/lib/apache-log4j-1.2.17/tests/src/java" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/apache-log4j-1.2.17" recursive="false" />
+  </library>
+</component>
