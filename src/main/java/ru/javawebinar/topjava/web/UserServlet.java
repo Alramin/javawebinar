@@ -1,11 +1,6 @@
 package ru.javawebinar.topjava.web;
 
-import ru.javawebinar.topjava.web.model.UserMeal;
-import ru.javawebinar.topjava.web.util.UserMealsUtil;
-
-
-
-import ru.javawebinar.topjava.web.LoggerWrapper;
+import ru.javawebinar.topjava.LoggerWrapper;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;

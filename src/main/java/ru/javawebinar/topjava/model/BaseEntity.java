@@ -1,6 +1,6 @@
 package ru.javawebinar.topjava.model;
 
-import ru.javawebinar.topjava.web.LoggerWrapper;
+import ru.javawebinar.topjava.LoggerWrapper;
 
 /**
  * User: gkislin
