@@ -40,9 +40,6 @@
         </plugins>
     </build>
 
-
-
-
     <dependencies>
         <!-- Logging with SLF4J & LogBack -->
         <dependency>
@@ -99,10 +96,6 @@
                 </exclusion>
             </exclusions>
         </dependency>
-
-
-
-
     </dependencies>
 
     <profiles>
